@@ -1,4 +1,4 @@
-<img width="1360" height="1600" alt="WhatsApp Image 2026-09-09 at 10 30 19 AM" src="https://github.com/user-attachments/assets/95a23131-0cff-4117-b85f-0d81e3524dc4" /># Electronic-Circuits--Half-Wave-Rectifier
+
 
 ## AIM:
 To implement a Half Wave Rectifier with and without filter and to measure and compare the output and peak inverse voltages.
@@ -26,5 +26,6 @@ To implement a Half Wave Rectifier with and without filter and to measure and co
 
 
 ## RESULT:
-<img width="1390" height="790" alt="WhatsApp Image 2026-09-09 at 10 30 20 AM" src="https://github.com/user-attachments/assets/aa7a77e4-b4a4-4eb6-a1db-5feffe2864b7" />
+<img width="1570" height="854" alt="WhatsApp Image 2026-09-09 at 10 30 24 AM" src="https://github.com/user-attachments/assets/c74471a1-2628-4a92-85ba-2c9873d15e49" />
+
 
